@@ -1,0 +1,7 @@
+{
+    "responseOpenia":
+    {
+        "role": "admin",
+        "content": "esta es la respuesta de openia utilizando servicios desde json via http"
+    }
+}
